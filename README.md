@@ -50,3 +50,7 @@ Password (again): （上で設定したパスワードを再入力。）
 8. http://localhost
 - 管理者ページを確認。
 9. http://localhost/admin
+
+- その他
+  - WEBアプリ作成。
+  - `docker-compose run --rm app python manage.py startapp example`
