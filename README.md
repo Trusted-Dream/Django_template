@@ -1,5 +1,5 @@
 # Django_docker-compose startup template
-
+![docker-compose](https://img.shields.io/badge/docker_compose-v3-red?style=plastic&logo=docker)
 1. .env.sample -> .env
 2. .env にそれぞれDBパスワードを設定。
 3. `docker-compose run --rm app django-admin.py startproject app .` を実行。
